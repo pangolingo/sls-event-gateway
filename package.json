@@ -1,0 +1,13 @@
+{
+  "name": "sls-event-gateway",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {
+    "aws-sdk": "2.444.0",
+    "serverless-offline": "4.10.6"
+  },
+  "devDependencies": {
+    "@serverless/enterprise-plugin": "0.3.4",
+    "serverless": "1.41.1"
+  }
+}
